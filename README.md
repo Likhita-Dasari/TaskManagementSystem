@@ -1,6 +1,13 @@
 <h1>Task Manager (Full-Stack App)</h1>
 
 A simple task management app to Add, Edit (pre-filled), Delete, and View tasks using MongoDB, Node.js, Express, and React.
+<br>
+<img width="1920" height="1080" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/2c777c04-1124-48c1-83f5-f3138d26aa0c" />
+<img width="1920" height="1080" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/c5c6a464-bd6c-4edc-ab56-d02020ee3e42" />
+<img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/2cc4f7e6-fc18-4429-93ed-587d4f645178" />
+<img width="1920" height="1080" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/ad9e2262-b86f-4adf-8acc-303012233f85" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/924b21e9-7171-4a92-85cb-05148b301028" />
+
 
 <h2>Description</h2>
 
