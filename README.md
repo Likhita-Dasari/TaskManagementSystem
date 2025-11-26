@@ -15,34 +15,34 @@ Data stored in MongoDB Atlas
 First registered user can be made Admin manually in DB
 
 <h2>Setup Instructions</h2>
-# Backend
-cd backend
-npm install
-npm run dev
+# Backend <br>
+cd backend <br>
+npm install  <br>
+npm run dev <br>
 
 # Frontend
-cd ../frontend
-npm install
-npm run dev
+cd ../frontend  <br>
+npm install  <br>
+npm run dev <br>
 
 
 <h2>API Endpoints</h2>
-Method	Endpoint	Purpose
-POST	/tasks	Add new task
-GET	/tasks	Get all tasks
-PUT	/tasks/:id	Update task by ID
-DELETE	/tasks/:id	Delete task by ID
+Method	Endpoint	Purpose <br>
+POST	/tasks	Add new task  <br>
+GET	/tasks	Get all tasks  <br>
+PUT	/tasks/:id	Update task by ID  <br>
+DELETE	/tasks/:id	Delete task by ID <br>
 
 
 
 <h2>Tech Stack</h2>
 
-Frontend: React.js
+Frontend: React.js <br>
 
-Backend: Node.js + Express.js
+Backend: Node.js + Express.js <br>
 
-Database: MongoDB Atlas
+Database: MongoDB Atlas <br>
 
-ODM: Mongoose
+ODM: Mongoose  <br>
 
-Tools: VS Code extension
+Tools: VS Code extension  <br>
